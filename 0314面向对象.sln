@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "类与对象", "类与对象\类与对象.csproj", "{D8D1F170-2DEA-4D7C-8EB0-FA8AFFD07987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S7.Net", "..\s7netplus-master\S7.Net\S7.Net.csproj", "{BFD484F9-3F04-42A2-BF2A-60A189A25DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D1F170-2DEA-4D7C-8EB0-FA8AFFD07987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D1F170-2DEA-4D7C-8EB0-FA8AFFD07987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D1F170-2DEA-4D7C-8EB0-FA8AFFD07987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D1F170-2DEA-4D7C-8EB0-FA8AFFD07987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD484F9-3F04-42A2-BF2A-60A189A25DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD484F9-3F04-42A2-BF2A-60A189A25DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD484F9-3F04-42A2-BF2A-60A189A25DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD484F9-3F04-42A2-BF2A-60A189A25DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
